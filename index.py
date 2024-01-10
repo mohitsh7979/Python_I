@@ -57,6 +57,46 @@
 # 500name = 89
 
 
+# Airthmatic Operator
+
+
+# print(10+5)
+# print(10-5)
+# print(10**5)  power
+# print(10//5) integer divid
+# print(10%5) reminder
+
+
+# Conditional Operator
+
+# print(10>5)
+# print(5<=5)
+# print("5"==5)
+# print(10!=5)
+# print("A">"B")
+# print("a"<"b")
+
+# Logical Operator 
+
+# print(10>5 and 5<3)
+# print(5>5 or 10==10)
+
+# assignment operator
+
+a = 5 
+a += 10   # a = a + 10
+a *= 2    # a = a * 2
+a /= 10   # a = a / 10
+a -= 3    # a = a - 3
+
+print(a)
+
+
+
+
+
+
+
 
 
 
